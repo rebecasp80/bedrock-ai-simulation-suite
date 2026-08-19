@@ -84,25 +84,40 @@ El proyecto sigue una estructura modular inspirada en flujos de producción real
 ## 📁 Estructura del repositorio
 
 bedrock-ai-simulation-suite/
+
 ├─ notebooks/
+
 │  └─ bedrock-ai-simulation-suite.ipynb
+
 │
+
 ├─ src/
+
 │  ├─ caching_engine.py
+
 │  ├─ evaluation_suite.py
+
 │  ├─ rag_engine.py
+
 │  ├─ media_automation.py
+
 │  └─ routing_engine.py
+
 │
+
 ├─ docs/
+
 │  └─ architecture_diagram.png
+
 │
+
 ├─ .gitignore
+
 ├─ license
+
 ├─ readme.md
-├─ requirements.txt
 
-
+└─ requirements.txt
 
 ---
 
